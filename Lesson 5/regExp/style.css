@@ -1,0 +1,63 @@
+#q {
+    margin-left: 400px;
+    margin-top: 150px;
+}
+
+#f {
+    width: 600px;
+}
+
+#output {
+    width: 600px;
+    height: 150px;
+    border: 2px solid red;
+    font-family: cursive;
+    background: gray
+}
+
+
+
+/*Контакты*/
+h1 {
+    text-align: center;
+    font-family: cursive;
+}
+
+#contact {
+    margin: 0 auto;
+    width: 400px;
+    font-family: cursive;
+}
+
+#contact div,
+#contact div label {
+    width: 300px;
+    float: left;
+    margin-top: 10px;
+}
+
+#contact input,
+#contact textarea {
+    float: right;
+    width: 300px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid grey;
+}
+
+#contact input[type="button"] {
+    width: 200px;
+    margin-left: calc(50% - 50px);
+    margin-top: 10px;
+    float: left;
+    transition: 0.2s;
+}
+
+#contact input[type="button"]:hover {
+    background: gray;
+}
+
+#contact input[type="button"]:active {
+    transform: scale(0.95);
+    background: red;
+}
