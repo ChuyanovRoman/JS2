@@ -1,0 +1,21 @@
+[{
+    "images": "../img/Shirt.jpg",
+    "title": "Shirt",
+    "price": 150
+  },
+  {
+    "images": "../img/Socks.jpg",
+    "title": "Socks",
+    "price": 50
+  },
+  {
+    "images": "../img/Jacket.jpg",
+    "title": "Jacket",
+    "price": 350
+  },
+  {
+    "images": "../img/Shoes.jpg",
+    "title": "Shoes",
+    "price": 250
+  }
+]
